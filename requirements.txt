@@ -19,6 +19,3 @@ tqdm==4.64.1
 tzdata==2022.4
 whitenoise==6.2.0
 gunicorn
-wordnet
-pros_cons
-reuters
